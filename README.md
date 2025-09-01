@@ -8,7 +8,7 @@ License: [`LICENSE.md`](LICENSE.md:1)
 ---
 
 ## Quick links
-- Prebuilt userscript (install in Tampermonkey / Greasemonkey): [`dist/Wplace\ Overlay\ Pro.user.js`](dist/Wplace\ Overlay\ Pro.user.js:1)  
+- Prebuilt userscript (install in Tampermonkey / Greasemonkey): [Releases](https://github.com/Decryptu/Wplace-Overlay-Pro/releases)  
 - Build script (from source): see the `build` script in [`package.json`](package.json:7)  
 - Development watch script: see `watch` in [`package.json`](package.json:8)  
 - Important constants (limits): [`src/core/constants.ts`](src/core/constants.ts:1)  
