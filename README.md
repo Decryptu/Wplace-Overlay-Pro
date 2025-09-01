@@ -40,8 +40,8 @@ License: [`LICENSE.md`](LICENSE.md:1)
 ## Installation
 
 1. Install a userscript manager such as Tampermonkey or Violentmonkey in your browser.
-2. Install the prebuilt userscript by opening the file produced by the build step and letting Tampermonkey import it:
-3. Build from source:
+2. Install the userscript in the [Releases](https://github.com/Decryptu/Wplace-Overlay-Pro/releases) page and letting Tampermonkey import it:
+3. Or you can build from source:
    - Install dependencies (npm or pnpm).
    - Run the build script defined in [`package.json`](package.json:7). 
 
